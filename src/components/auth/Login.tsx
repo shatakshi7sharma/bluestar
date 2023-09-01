@@ -99,7 +99,7 @@ export default function Login() {
         
         
         <p className="mt-4 text-center">
-          Don't have an account?
+          Don&apos;t have an account?
           <Link href="/sign-up">Sign Up</Link>
         </p>
 
